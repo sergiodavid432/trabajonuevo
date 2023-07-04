@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CalleProstituta
+comment1.params=nit\ direccion
+comment1.target=CalleProstituta(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNit()
+comment3.params=
+comment3.target=java.lang.String\ getDireccion()
+comment4.params=
+comment4.target=boolean\ estaLlena()
+comment5.params=
+comment5.target=int\ getNumeroTotalProstitutas()
+numComments=6

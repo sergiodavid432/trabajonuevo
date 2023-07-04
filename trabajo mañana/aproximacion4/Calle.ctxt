@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Calle
+comment1.params=nombre\ prostitutas
+comment1.target=Calle(java.lang.String,\ Prostitutas)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=Prostitutas\ getProstitutas()
+comment5.params=prostitutas
+comment5.target=void\ setProstitutas(Prostitutas)
+numComments=6

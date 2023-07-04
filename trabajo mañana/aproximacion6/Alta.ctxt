@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Alta
+comment1.params=raza\ genero\ numeroDeProstitutas\ costo\ vueltas\ metodoPago\ calle\ barrio\ direccion
+comment1.target=Alta(java.lang.String,\ java.lang.String,\ int,\ double,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getCalle()
+comment3.params=calle
+comment3.target=void\ setCalle(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getBarrio()
+comment5.params=barrio
+comment5.target=void\ setBarrio(java.lang.String)
+comment6.params=
+comment6.target=int\ getDireccion()
+comment7.params=direccion
+comment7.target=void\ setDireccion(int)
+numComments=8

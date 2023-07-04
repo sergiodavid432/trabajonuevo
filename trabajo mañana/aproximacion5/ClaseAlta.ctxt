@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ClaseAlta
+comment1.params=raza\ sexo\ presupuesto\ pago\ numeroDeProstitutas
+comment1.target=ClaseAlta(java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment10.params=
+comment10.target=double\ getNumeroDeProstitutas()
+comment11.params=numeroDeProstitutas
+comment11.target=void\ setNumeroDeProstitutas(double)
+comment12.params=cantidad
+comment12.target=void\ restarPresupuesto(double)
+comment2.params=
+comment2.target=java.lang.String\ getRaza()
+comment3.params=raza
+comment3.target=void\ setRaza(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getSexo()
+comment5.params=sexo
+comment5.target=void\ setSexo(java.lang.String)
+comment6.params=
+comment6.target=double\ getPresupuesto()
+comment7.params=presupuesto
+comment7.target=void\ setPresupuesto(double)
+comment8.params=
+comment8.target=double\ getPago()
+comment9.params=pago
+comment9.target=void\ setPago(double)
+numComments=13
